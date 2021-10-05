@@ -1,0 +1,11 @@
+
+1- Cucumber Report
+2- Parallel Testing
+3- TestNG test code in framework...
+4- Other dependencies...
+5- Methods in Base class...
+6- How to Screenshot when our test is going to be failed.
+7- How to run our test framework from terminal command prompt?
+8-
+
+
